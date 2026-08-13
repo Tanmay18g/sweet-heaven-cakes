@@ -1,0 +1,22 @@
+{
+  "routes": [
+    {
+      "route": "/api/*",
+      "allowedRoles": ["anonymous"]
+    },
+    {
+      "route": "/admin/*",
+      "allowedRoles": ["anonymous"]
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/images/*", "/assets/*", "/api/*", "/*.{css,scss,js,png,gif,ico,jpg,svg,webp}"]
+  },
+  "platform": {
+    "apiRuntime": "node:20"
+  },
+  "globalHeaders": {
+    "content-security-policy": "default-src 'self' https: data: blob: 'unsafe-inline' 'unsafe-eval'; frame-src https://www.google.com;"
+  }
+}

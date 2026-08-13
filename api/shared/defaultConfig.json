@@ -1,0 +1,147 @@
+{
+  "brand": {
+    "name": "Sweet Heaven",
+    "tagline": "Premium Custom Cakes",
+    "logoUrl": ""
+  },
+  "hero": {
+    "headline": "Every Celebration Deserves a Masterpiece",
+    "subheadline": "Bespoke handcrafted cakes for weddings, birthdays, anniversaries, and every special moment. Designed with love, baked to perfection.",
+    "imageUrl": "https://images.unsplash.com/photo-1535258970792-375914c6724a?w=1600&q=80",
+    "primaryCta": "Design Your Cake",
+    "secondaryCta": "View Gallery"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/_sweetheaven__?igsh=MXNjODZ3dGNyb3d4OA==",
+    "instagramHandle": "@_sweetheaven__",
+    "whatsapp": "https://wa.me/918209046188"
+  },
+  "contact": {
+    "phone": "+91 82090 46188",
+    "email": "hello@sweetheaven.com",
+    "address": "123, Sweet Street, Bangalore - 560001, India",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.013045408046!2d77.5946!3d12.9716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU4JzE3LjgiTiA3N8KwMzUnNDAuNiJF!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  },
+  "categories": [
+    { "id": "wedding", "label": "Wedding Cakes", "imageUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&q=80" },
+    { "id": "luxury", "label": "Luxury Tier Cakes", "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80" },
+    { "id": "birthday", "label": "Birthday Cakes", "imageUrl": "https://images.unsplash.com/photo-1558636508-e0db3819812a?w=600&q=80" },
+    { "id": "retirement", "label": "Retirement Cakes", "imageUrl": "https://images.unsplash.com/photo-1464349095432-06222d7a5f9e?w=600&q=80" },
+    { "id": "corporate", "label": "Corporate Cakes", "imageUrl": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=600&q=80" },
+    { "id": "kids", "label": "Kids Theme Cakes", "imageUrl": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?w=600&q=80" }
+  ],
+  "processSteps": [
+    { "step": 1, "title": "Choose Occasion", "icon": "🎉" },
+    { "step": 2, "title": "Choose Shape", "icon": "🎂" },
+    { "step": 3, "title": "Choose Flavour", "icon": "🥣" },
+    { "step": 4, "title": "Choose Size", "icon": "📏" },
+    { "step": 5, "title": "Upload Inspiration", "icon": "🖼️" },
+    { "step": 6, "title": "Special Instructions", "icon": "✏️" },
+    { "step": 7, "title": "Get Your Quote", "icon": "🎂" }
+  ],
+  "gallery": [
+    { "id": "1", "category": "wedding", "imageUrl": "https://images.unsplash.com/photo-1535258970792-375914c6724a?w=800&q=80", "alt": "Floral wedding cake" },
+    { "id": "2", "category": "wedding", "imageUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&q=80", "alt": "Elegant tier wedding cake" },
+    { "id": "3", "category": "birthday", "imageUrl": "https://images.unsplash.com/photo-1558636508-e0db3819812a?w=800&q=80", "alt": "Birthday celebration cake" },
+    { "id": "4", "category": "birthday", "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=80", "alt": "Chocolate birthday cake" },
+    { "id": "5", "category": "corporate", "imageUrl": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&q=80", "alt": "Corporate branded cake" },
+    { "id": "6", "category": "kids", "imageUrl": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?w=800&q=80", "alt": "Kids theme cake" },
+    { "id": "7", "category": "anniversary", "imageUrl": "https://images.unsplash.com/photo-1464349095432-06222d7a5f9e?w=800&q=80", "alt": "Anniversary cake" },
+    { "id": "8", "category": "retirement", "imageUrl": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=800&q=80", "alt": "Retirement celebration cake" },
+    { "id": "9", "category": "wedding", "imageUrl": "https://images.unsplash.com/photo-1519869325930-281384150729?w=800&q=80", "alt": "Gold accent wedding cake" },
+    { "id": "10", "category": "kids", "imageUrl": "https://images.unsplash.com/photo-1562440493-64c50fa092bd?w=800&q=80", "alt": "Colorful kids cake" }
+  ],
+  "galleryFilters": ["All", "Wedding", "Birthday", "Retirement", "Anniversary", "Corporate", "Kids"],
+  "whyChooseUs": [
+    { "icon": "✨", "text": "100% Custom Designs" },
+    { "icon": "🌿", "text": "Premium Ingredients" },
+    { "icon": "🥚", "text": "Egg & Eggless Options" },
+    { "icon": "🔥", "text": "Freshly Made To Order" },
+    { "icon": "🚚", "text": "On-time Delivery" },
+    { "icon": "👩‍🎨", "text": "Made By Professional Artists" }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Ananya Sharma",
+      "role": "Wedding Client",
+      "rating": 5,
+      "quote": "Our wedding cake was absolutely stunning! Every guest asked where we got it from. Sweet Heaven made our dream cake come true.",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Mehta",
+      "role": "Birthday Client",
+      "rating": 5,
+      "quote": "The attention to detail was incredible. The cake tasted as amazing as it looked. Highly recommend for any celebration!",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80"
+    }
+  ],
+  "instagramFeed": [
+    "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&q=80",
+    "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&q=80",
+    "https://images.unsplash.com/photo-1558636508-e0db3819812a?w=400&q=80",
+    "https://images.unsplash.com/photo-1562777717-dc6984f65a63?w=400&q=80",
+    "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=400&q=80",
+    "https://images.unsplash.com/photo-1535258970792-375914c6724a?w=400&q=80"
+  ],
+  "about": {
+    "title": "About Sweet Heaven",
+    "description": "Founded with a passion for creating edible art, Sweet Heaven has been crafting bespoke cakes that turn celebrations into unforgettable memories. Our team of skilled pastry artists combines premium ingredients with creative design to deliver cakes that are as delicious as they are beautiful.",
+    "imageUrl": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?w=800&q=80",
+    "stats": [
+      { "value": "5+", "label": "Years of Experience" },
+      { "value": "1000+", "label": "Happy Clients" },
+      { "value": "5000+", "label": "Custom Cakes" }
+    ]
+  },
+  "faqs": [
+    {
+      "id": "1",
+      "question": "Can you make completely custom cakes?",
+      "answer": "Absolutely! Every cake we create is fully customized to your vision. Share your inspiration images, theme, colors, and preferences, and we'll bring your dream cake to life."
+    },
+    {
+      "id": "2",
+      "question": "How far in advance should I place my order?",
+      "answer": "We recommend placing orders at least 7-14 days in advance for standard cakes, and 3-4 weeks for elaborate wedding or tier cakes. Rush orders may be accommodated based on availability."
+    },
+    {
+      "id": "3",
+      "question": "Do you make eggless cakes?",
+      "answer": "Yes! We offer both egg and eggless options for all our cakes. Our eggless recipes are crafted to ensure the same rich taste and texture you expect."
+    },
+    {
+      "id": "4",
+      "question": "Do you deliver cakes?",
+      "answer": "Yes, we provide delivery across Bangalore. Delivery charges vary based on location. We also offer pickup from our studio."
+    },
+    {
+      "id": "5",
+      "question": "What is the pricing for custom cakes?",
+      "answer": "Pricing depends on size, design complexity, and ingredients. Fill out our enquiry form for a personalized quote within 24 hours."
+    }
+  ],
+  "ctaBanner": {
+    "title": "Let's Create Your Dream Cake",
+    "buttonText": "Enquire Now"
+  },
+  "footer": {
+    "quickLinks": [
+      { "label": "Home", "href": "#home" },
+      { "label": "Gallery", "href": "#gallery" },
+      { "label": "Custom Cakes", "href": "#process" },
+      { "label": "About Us", "href": "#about" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "helpLinks": [
+      { "label": "FAQs", "href": "#faq" },
+      { "label": "Delivery Info", "href": "#contact" },
+      { "label": "Custom Orders", "href": "#process" },
+      { "label": "Privacy Policy", "href": "#" }
+    ]
+  },
+  "occasions": ["Wedding", "Birthday", "Anniversary", "Corporate Event", "Retirement", "Kids Party", "Other"]
+}

@@ -1,0 +1,8 @@
+local.settings.json
+.git*
+.vscode
+*.md
+node_modules
+api-minimal
+api-backup
+api-backup2
