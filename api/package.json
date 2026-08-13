@@ -2,5 +2,8 @@
   "name": "sweetheaven-api",
   "version": "1.0.0",
   "description": "Zero-dependency Azure Functions for SWA free tier",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {}
 }
